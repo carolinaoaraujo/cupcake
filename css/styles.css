@@ -14,3 +14,8 @@ h2.best {
   font-weight:bold;
 
 }
+
+div.author {
+  color: green;
+  font-style: italic;
+}
