@@ -34,7 +34,22 @@ div.sidebar {
   margin: 12px;
 }
 
-div.image-box {
+.image-box  {
   border: 10px solid green;
-  padding: 300px;
+  padding: 30px;
+  width: 300px;
+  float: left;
+  margin: 10px;
+}
+
+.image-box img {
+  max-width: 200px;
+}
+
+.red p {
+  color:red;
+}
+
+.blue p {
+  color:blue;
 }
