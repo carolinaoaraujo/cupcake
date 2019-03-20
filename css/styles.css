@@ -19,3 +19,14 @@ div.author {
   color: green;
   font-style: italic;
 }
+
+span.important {
+  color: orange;
+  font-style: oblique;
+}
+
+div.sidebar {
+  width: 30%;
+  float: left;
+  background-color: yellow;
+}
